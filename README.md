@@ -1,25 +1,66 @@
-# Aditya Wavre
+<div align="center">
+
+# Aditya Santosh Wavre
+
+### Computer Science Engineering | AI/ML | Generative AI | Data Science
+
+[![GitHub](https://img.shields.io/badge/GitHub-adityawavre7865-181717?style=for-the-badge&logo=github)](https://github.com/adityawavre7865)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-adityawavre-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/adityawavre)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityasantoshwavre@gmail.com)
+
+</div>
+
+---
 
 ## About Me
 
-Aspiring Data Scientist and Data Analyst with a strong interest in data-driven decision making. Currently focused on building skills in Data Structures and Algorithms, Generative AI, and AI applications in finance. Interested in applying analytical thinking to solve real-world problems.
+I’m a Computer Science Engineering student at Pimpri Chinchwad College of Engineering (PCCOE), Pune, interested in **AI/ML, Generative AI, Data Science, and Web Development**. I enjoy applying problem-solving, analytical thinking, and UI/UX principles to build intelligent, user-focused applications. My current technical interests include deep learning, large language models, prompt engineering, and scalable application development.
 
-## Skills
+## Technical Skills
 
-* Programming: C++, Python, JavaScript
-* Areas: Data Analysis, Machine Learning (beginner), Web Development
-* Tools: Git, GitHub, VS Code
+| Area | Skills |
+|---|---|
+| **Programming Languages** | Python, C++, JavaScript |
+| **Machine Learning / Deep Learning** | CNNs, Deep Learning, OpenCV, Pose Detection, Image Processing |
+| **Generative AI** | Generative AI, Large Language Models (LLMs), Prompt Engineering |
+| **Backend & APIs** | Node.js, Express.js |
+| **Database** | MySQL |
+| **Frontend & UI/UX** | React.js, HTML, CSS, Figma |
+| **Tools & Cloud** | Git, GitHub, VS Code, AWS EC2, AWS S3 |
 
-## Current Focus
+## Education
 
-* Practicing Data Structures and Algorithms
-* Exploring Generative AI and AI in finance
-* Building projects to strengthen technical and problem-solving skills
+**Pimpri Chinchwad College of Engineering (PCCOE)** — Pune, India  
+B.E./B.Tech. in Computer Science Engineering · **2023–2027**
 
-## Collaboration
+**S. B. Patil College of Science** — Pune, India  
+**2021–2023**
 
-Open to collaborating on meaningful projects in data, AI, or web development.
+## Certifications & Leadership
 
-## Contact
+- **Google UX Design Professional Certificate** — User research, wireframing, prototyping, and user-centered design.
+- **Java Masterclass — Udemy (2025)** — Core Java, object-oriented programming, and application development.
+- **OWASP Club Member** — Security-focused discussions and web application security best practices.
+- **Web Development Head** — Led web development initiatives, organized technical sessions, and guided peers.
 
-Email: [adityasantoshwavre@gmail.com](mailto:adityasantoshwavre@gmail.com)
+## GitHub Metrics
+
+<!-- The metrics workflow updates this image automatically. -->
+<div align="center">
+
+<img src="./metrics.svg" alt="GitHub metrics dashboard" width="100%">
+
+</div>
+
+## Current Interests
+
+- Strengthening problem-solving and programming fundamentals.
+- Exploring Generative AI, LLMs, and practical AI/ML applications.
+- Learning to build scalable web applications and data-driven solutions.
+- Improving cloud and deployment skills with AWS.
+
+---
+
+<div align="center">
+  <sub>Based in Pune, India · Open to learning, collaboration, and opportunities in AI/ML, Data Science, and Web Development.</sub>
+</div>
